@@ -83,3 +83,12 @@ git clone --depth=1 https://github.com/mrdoob/three.js.git
 [jsdelivr-url]: https://www.jsdelivr.com/package/npm/three
 [discord]: https://img.shields.io/discord/685241246557667386
 [discord-url]: https://discord.gg/56GBJwAnUS
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [mrdoob/three.js](https://github.com/mrdoob/three.js), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: MIT License (mantida sem alterações).
+
+**Fonte original:** https://github.com/mrdoob/three.js
